@@ -13,3 +13,6 @@ env/
 
 # VSCode settings
 .vscode/
+
+# macOS system files
+.DS_Store
