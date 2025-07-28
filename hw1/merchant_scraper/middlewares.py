@@ -1,4 +1,4 @@
-# hw1/merchant_scraper/merchant_scraper/middlewares.py
+# hw1/merchant_scraper/middlewares.py
 
 """
 Custom middlewares for merchant_scraper project.

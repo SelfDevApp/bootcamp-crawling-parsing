@@ -1,4 +1,4 @@
-# hw1/merchant_scraper/merchant_scraper/spiders/merchants_spider.py
+# hw1/merchant_scraper/spiders/merchants_spider.py
 
 """
 Main spider for merchant_scraper project.

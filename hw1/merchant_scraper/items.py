@@ -1,4 +1,4 @@
-# hw1/merchant_scraper/merchant_scraper/items.py
+# hw1/merchant_scraper/items.py
 
 """
 Defines data structure for scraped items.

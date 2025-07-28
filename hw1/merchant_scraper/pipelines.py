@@ -1,4 +1,4 @@
-# hw1/merchant_scraper/merchant_scraper/pipelines.py
+# hw1/merchant_scraper/pipelines.py
 
 """
 Pipeline for cleaning and normalizing scraped data.

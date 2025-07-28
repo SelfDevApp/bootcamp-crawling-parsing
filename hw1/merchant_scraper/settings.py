@@ -1,4 +1,4 @@
-# hw1/merchant_scraper/merchant_scraper/settings.py
+# hw1/merchant_scraper/settings.py
 
 """
 Scrapy project settings for merchant_scraper.
